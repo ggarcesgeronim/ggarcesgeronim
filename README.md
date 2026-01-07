@@ -1,4 +1,4 @@
-#  Hi, I'm Gabriel Garcés Geronimo
+#  Hi, I'm Gabriel 
 
 💻 Aspiring Full-Stack Web Developer  
 🌎 Based in the Dominican Republic  
